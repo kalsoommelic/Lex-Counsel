@@ -193,7 +193,7 @@ class Admin extends BaseController
                 ->with('error', 'Contact message not found.');
         }
 
-        return view('dashboard/view_contact', [
+        return view('dashboard/contact_view', [
             'contact' => $contact,
         ]);
     }
