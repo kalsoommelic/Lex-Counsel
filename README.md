@@ -32,6 +32,39 @@ The website provides information about legal practice areas, attorneys, legal bl
 - MySQL database integration
 
 ---
+---
+
+## Screenshots
+
+### Home Page
+
+![Lex Counsel Home Page](screenshots/home-page.png)
+
+### About Page
+
+![Lex Counsel About Page](screenshots/about-page.png)
+
+### Practice Areas
+
+![Lex Counsel Practice Areas](screenshots/practice-areas.png)
+
+### Attorneys
+
+![Lex Counsel Attorneys](screenshots/attorneys.png)
+
+### Legal Blog
+
+![Lex Counsel Blog](screenshots/blog.png)
+
+### Consultation
+
+![Lex Counsel Consultation](screenshots/consultation.png)
+
+### Admin Dashboard
+
+![Lex Counsel Admin Dashboard](screenshots/admin-dashboard.png)
+
+---
 
 ## Technology Stack
 
